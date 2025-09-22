@@ -1,4 +1,4 @@
-# Medical Appointments — Data Cleaning (Internship Task)
+# Medical Appointments — Data Cleaning
 
 ## Overview
 This repo demonstrates a full data cleaning and preprocessing pipeline for the "Medical Appointment No Shows" dataset (Kaggle). The project covers EDA, handling missing values, duplicate removal, date parsing, data type corrections, outlier handling, feature engineering (e.g., `wait_days`), and saving a cleaned dataset.
